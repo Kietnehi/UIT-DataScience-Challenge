@@ -15,5 +15,9 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Folder dữ liệu
+/Task 1/LegalR - Public Test/selected-contexts/
+/Task 2/LegalQA - Public Test/selected-contexts/
+
 # Local credentials
 codabench.txt
