@@ -21,3 +21,6 @@ Thumbs.db
 
 # Local credentials
 codabench.txt
+
+# Generated output
+output/
