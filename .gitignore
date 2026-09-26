@@ -24,3 +24,5 @@ codabench.txt
 
 # Generated output
 output/
+
+.env
